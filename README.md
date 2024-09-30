@@ -1,2 +1,3 @@
 # Arsh-DSA-Sheet
-`1. Arrays.`
+`Arrays`
+`1. Find the Duplicate Number`
