@@ -1,4 +1,4 @@
-# DAY 2: SRemove Duplicates from Sorted Array
+# DAY 2: Remove Duplicates from Sorted Array
 
 ## Problem Statements
 
