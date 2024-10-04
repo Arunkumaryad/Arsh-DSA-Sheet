@@ -2,3 +2,4 @@
 
 - `DAY 1:` Find the Duplicate Number && Sort Colors
 - `DAY 2:` Remove Duplicates from Sorted Array && Set Matrix Zeroes
+- `DAY 3:` Move Zeros && Set Matrix Zeroes
